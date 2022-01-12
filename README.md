@@ -1,7 +1,7 @@
 # jovian_jrm09_internal_matlab
 
 This repository contains MATLAB code used to calculate the JRM09 model (<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2018GL077312
-">Connerney et al., 2018</a>) of Jupiter's internal magnetic field model in <a href="https://github.com/marissav06/jovian_jrm09_internal_matlab/blob/main/jovian_jrm09_internal_rtp.m">spherical (rtp)</a> or <a href="https://github.com/marissav06/jovian_jrm09_internal/blob/main/jovian_jrm09_internal_xyz.m">cartesian (xyz)</a> coordinates (note that <a href="https://github.com/marissav06/jovian_jrm09_internal_matlab/blob/main/jovian_jrm09_internal_xyz.m">jovian_jrm09_internal_xyz.pro</a> calls <a href="https://github.com/marissav06/jovian_jrm09_internal_matlab/blob/main/jovian_jrm09_internal_rtp.m">jovian_jrm09_internal_rtp.m</a> so users should download both files). 
+">Connerney et al., 2018</a>) of Jupiter's internal magnetic field model in <a href="https://github.com/marissav06/jovian_jrm09_internal_matlab/blob/main/jovian_jrm09_internal_rtp.m">spherical (rtp)</a> or <a href="https://github.com/marissav06/jovian_jrm09_internal_matlab/blob/main/jovian_jrm09_internal_xyz.m">cartesian (xyz)</a> coordinates (note that <a href="https://github.com/marissav06/jovian_jrm09_internal_matlab/blob/main/jovian_jrm09_internal_xyz.m">jovian_jrm09_internal_xyz.m</a> calls <a href="https://github.com/marissav06/jovian_jrm09_internal_matlab/blob/main/jovian_jrm09_internal_rtp.m">jovian_jrm09_internal_rtp.m</a> so users should download both files). 
 
 Please see <a href="https://github.com/marissav06/jovian_jrm09_internal">https://github.com/marissav06/jovian_jrm09_internal</a> for the repository containing IDL code for the JRM09 model.
 
